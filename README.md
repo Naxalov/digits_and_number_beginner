@@ -34,7 +34,7 @@ Output: 2
 
 ```
 **Constraints:**
-- 0<=x<=10<sup>5</sup>
+- 0<=num<=10<sup>5</sup>
 
 ## Sum of digits #2
 
@@ -65,7 +65,7 @@ Output: 2
 ```
 
 **Constraints:**
-- 0<=x<=10<sup>5</sup>
+- 0<=num<=10<sup>5</sup>
 
 # Warning
 - don't copy other solutions or any solution
