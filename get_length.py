@@ -10,6 +10,6 @@ def get_length(num):
         int: length of integer
     """
     # return number of digits in integer
-    return 0
+    return
 
  
