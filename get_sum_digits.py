@@ -10,4 +10,4 @@ def get_sum_digits(num):
         int: sum of digits in integer
     """
     # return sum of digits in integer
-    return  
+    return  0
