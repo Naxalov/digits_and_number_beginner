@@ -11,17 +11,7 @@ def get_length(num):
     """
     k=5
     
-    num//=10
-    k-=pow(0,num)
-    
-    num//=10
-    k-=pow(0,num)
-
-    num//=10
-    k-=pow(0,num)
-
-    num//=10
-    k-=pow(0,num)
+  
 
 
     # return number of digits in integer
