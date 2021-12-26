@@ -9,7 +9,7 @@ def get_length(num):
     Returns:
         int: length of integer
     """
-    k=6
+    k=5
     
     num//=10
     k-=pow(0,num)
@@ -29,5 +29,5 @@ def get_length(num):
 
 
 
-print(get_length(10000))
+print(get_length(99))
  
